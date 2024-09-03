@@ -37,9 +37,9 @@ As a fresher with a Bachelor of Computer Applications (BCA), I am eager to apply
 
 ### GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-username)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulgandeetkar&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rahulgandeetkar&show_icons=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rahulgandeetkar)
 
 ---
 
