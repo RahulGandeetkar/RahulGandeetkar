@@ -1,60 +1,64 @@
-# Rahul M Gandeetkar
+# Hi there 👋, I am Rahul M Gandeetkar
 
-**Contact Information:**
-- **Phone:** +91 9380854206
-- **Email:** [rahulgandeetkar4243@gmail.com](mailto:rahulgandeetkar4243@gmail.com)
+### Aspiring Software Developer
 
-## Objective
-To obtain an entry-level position in a company where I can acquire new knowledge, sharpen my skills, and achieve both organizational and individual goals.
+As a fresher with a Bachelor of Computer Applications (BCA), I am eager to apply my knowledge and skills in real-world projects. My journey in the tech world has just begun, and I am passionate about coding and learning new technologies.
 
-## Educational Qualification
-- **Bachelor of Computer Applications (BCA)**
-  - KLS BCA College, Haliyal
-  - **Year:** 2021-2023
-  - **Percentage:** 72%
+### Skills
+- C/C++
+- Java
+- HTML
+- CSS
+- JavaScript
+- Data Structures and Algorithms (DSA)
 
-- **PUC**
-  - VD Hegde Art & Commerce PU College, Haliyal
-  - **Year:** 2019-2020
-  - **Percentage:** 82%
+### 🔭 I’m currently working on
+- Building projects to sharpen my skills
+- Learning new technologies and frameworks
 
-- **SSLC**
-  - Government High-School, Yadoga
-  - **Year:** 2016-2018
-  - **Percentage:** 85.92%
+### 🌱 I’m currently learning
+- Core Java
+- Advanced web technologies
 
-## Technical Skills
-- **Programming Languages:** C/C++, Java
-- **Operating Systems:** Windows 10, Fedora
-- **Web Technologies:** HTML, CSS, JavaScript
-- **IDE Tools:** Eclipse, Android Studio, Visual Studio
+### 💬 Ask me about
+- C/C++
+- Java
+- HTML/CSS/JavaScript
+- Operating Systems: Windows 10, Fedora
+- IDEs: Eclipse, Android Studio, Visual Studio
 
-## Work Experience
-**Fresher**
+### 📫 How to reach me
+- Email: [rahulgandeetkar4243@gmail.com](mailto:rahulgandeetkar4243@gmail.com)
 
-## Strengths & Hobbies
-- Hard & Smart Working
-- Honest & Punctual
-- Good Communication Skills
-- Responsible Towards Work
+### 😄 Pronouns
+- he/him
 
-## Area of Interest
-- Reading
-- Coding
-- Sports
-- Learning about new things
+---
 
-## Personal Details
-- **Date of Birth:** 01 June 2002
-- **Father's Name:** Manjunath Gandeetkar
-- **Mother's Name:** Suneeta Gandeetkar
-- **Address:** At: Ramapur, Post: Yadoga, Tq: Haliyal, Dist: Uttar Kannada, Karnataka, India (581356)
-- **Languages Known:** Kannada, English, Hindi, Marathi
-- **Marital Status:** Unmarried
+### GitHub Stats
 
-## Declaration
-I hereby declare that all the information provided above is true and I bear the responsibility for the correctness of the above-mentioned information.
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-username)
 
-**Place:**  
-**Date:**  
-**Signature:** Rahul Gandeetkar
+---
+
+### About
+Passionate about coding and eager to contribute to meaningful projects. Always looking to learn and grow in the field of software development.
+
+---
+
+### Resources
+- **Stars:** 0 stars
+- **Watchers:** 1 watching
+- **Forks:** 0 forks
+
+---
+
+### Report repository
+Feel free to open an issue if you have any suggestions or find any issues.
+
+---
+
+### Footer
+No releases published | No packages published
